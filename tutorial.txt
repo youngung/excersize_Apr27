@@ -13,7 +13,7 @@ pull    (remote -> current repository)
   - 저장, stage, commit
 
 2. fortran_tutorial 에 가서 remote repository 추가 (fortran_tutorial_new) - git remote add <remote name> 활용
-2.1 under progress
+2.1 under progress hello~
 
 3. fortran_tutorial에서 remote repository의 update를 pull - git pull <remote> master   활용 
 
