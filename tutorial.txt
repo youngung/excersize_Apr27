@@ -33,7 +33,7 @@ checkout
 다음은 branch 실습... (master 외의 branch 생성)
 
 ( 4월 27일)
-
+-anything
 - 공통 project 생성 (멤버의 수에 맞게 파일 생성 후 initial commit)
 - clone 
 - 각자의 이름을 딴 branch 생성
